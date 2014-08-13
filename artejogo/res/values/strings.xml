@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">artejogo</string>
+    <string name="start">Comecar</string>
+    <string name="proximo">Proximo</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
